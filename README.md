@@ -2,3 +2,4 @@
 
 # Cosmic Closet
 A social e-commerce platform for buying and selling used, vintage, and repurposed items. 
+(Work in Progress)
