@@ -14,5 +14,24 @@ A senior in Computer Science interested in Product Management and Mobile Applica
 ### Kailey Bergeron
 A senior in Computer Science dedicated to building my leadership, problem-solving, mobile & web design, and development skills. For my background and experience: [LinkedIn](https://www.linkedin.com/in/kaileybergeron/) and [Portfolio](https://techkailey.github.io/MyPortfolioWebsite/).
 
-## 🍂 StartUp UNO
+## 🤎 StartUp UNO
 Cosmic Closet was submitted to the local UNO Startup competition. Out of nearly 40 applications, our team was selected as one of the 8 teams allowed to attend seminars and receive mentorship for the project. After the seminars, 5 teams will be chosen to pitch their ideas in the final competition, where a winner will be selected.
+
+## ❔ Potential Stakeholders
+1. Sellers listing their second-hand items:
+- Individuals looking to declutter their wardrobes and make money by selling pre-loved clothing. The app provides them with a platform that enhances visibility through its unique social features, potentially increasing the chances of selling their items.
+
+2. Buyers searching for unique finds:
+- Shoppers who are interested in discovering one-of-a-kind pieces or rare vintage items. Or even just cute none-rare second hand pieces. The app's community-driven aspect and curated outfit inspiration make it easier for buyers to envision how items can fit into their existing wardrobe.
+
+3. Users who enjoy curating outfits:
+- Fashion enthusiasts who love to mix and match clothing to create stylish looks. These users can engage with the app by using items listed for sale to create outfits, gaining satisfaction from creative expression and potentially influencing others in the community.
+
+4. Creators of fashion lookbooks:
+- Influencers, stylists, and content creators who build fashion lookbooks to showcase different styles or trends. Cosmic Closet offers them a platform to display their creativity and attract followers.
+
+5. Private accounts organizing their wardrobe without listing items for sale:
+- Users who prefer to keep track of their wardrobe digitally without the intent to sell. These users can use the app to organize their clothing, plan outfits, and gain inspiration from the community without participating in the marketplace. This can also be a tool to make styling your client easier as a stylist, especially for those with celebrity clients who have large wardrobes.
+
+6. Fashion influencers and bloggers:
+- Individuals with a significant following in the fashion space who can drive app adoption by showcasing how they use Cosmic Closet to create outfits and lookbooks. Their involvement can significantly boost the app’s visibility and credibility.
