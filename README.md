@@ -2,7 +2,7 @@
 <img width="1440" alt="Screenshot 2025-01-12 at 4 19 36 AM" src="https://github.com/user-attachments/assets/1d72e284-2b14-464a-a067-f2be14a72563" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 20 12 AM" src="https://github.com/user-attachments/assets/2ce1d573-044a-4599-99f3-0e6d189bf35d" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 35 52 AM" src="https://github.com/user-attachments/assets/e16b19ee-fa12-4cd5-8379-412d2a04d18b" />
-<img src = "Readme Slides/vid.gif">
+<img width="1440" src = "Readme Slides/vid.gif">
 <img width="1440" alt="Screenshot 2025-01-12 at 4 32 41 AM" src="https://github.com/user-attachments/assets/e30ff085-bcb7-4568-b72d-9477a91a7651" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 32 30 AM" src="https://github.com/user-attachments/assets/88773b7e-ce04-40dd-bae8-bedcb93cfeea" />
 
@@ -10,7 +10,7 @@
 <img width="1440" alt="Screenshot 2025-01-12 at 4 39 09 AM" src="https://github.com/user-attachments/assets/5459546d-b3a1-4626-938f-a274ce8fd11d" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 24 28 AM" src="https://github.com/user-attachments/assets/984b4483-6a5f-4096-a202-0a3f0cd4eadb" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 24 08 AM" src="https://github.com/user-attachments/assets/aa2a61a5-7837-4ea3-b218-56a6bff9bbbb" />
-<img src = "Readme Slides/vid1.gif">
+<img width="1440" src = "Readme Slides/vid1.gif">
 <img width="1440" alt="Screenshot 2025-01-12 at 4 31 23 AM" src="https://github.com/user-attachments/assets/7e989ffc-5233-4795-80c1-0f55eb5a3574" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 32 00 AM" src="https://github.com/user-attachments/assets/7cc63081-e8de-4c9c-8f97-9715415a3ed3" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 33 05 AM" src="https://github.com/user-attachments/assets/6d108bcb-95d9-4f51-ae54-75d687949e4b" />
