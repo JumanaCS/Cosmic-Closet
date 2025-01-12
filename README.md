@@ -18,7 +18,7 @@
 
 ## 🤎 StartUp UNO
 Cosmic Closet was submitted to the local UNO Startup competition. Out of nearly 40 applications, our team was selected as one of the 8 teams allowed to attend seminars and receive mentorship for the project. After the seminars, 5 teams will be chosen to pitch their ideas in the final competition, where a winner will be selected. We were selected to be one of those 5, presented at the finals, and won the Social Innovation Award!
-<img width="1012" alt="Screenshot 2025-01-12 at 4 54 09 AM" src="https://github.com/user-attachments/assets/8f8ebd4e-7c4a-4be3-a4ab-0aa76f05fdfe" />
+<img width="1440" alt="Screenshot 2025-01-12 at 4 54 09 AM" src="https://github.com/user-attachments/assets/8f8ebd4e-7c4a-4be3-a4ab-0aa76f05fdfe" />
 
 ## ❔ Potential Stakeholders
 1. Sellers listing their second-hand items:
