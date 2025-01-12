@@ -1,7 +1,6 @@
 # 🩰 About Cosmic Closet
 <img width="1440" alt="Screenshot 2025-01-12 at 4 19 36 AM" src="https://github.com/user-attachments/assets/1d72e284-2b14-464a-a067-f2be14a72563" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 20 12 AM" src="https://github.com/user-attachments/assets/2ce1d573-044a-4599-99f3-0e6d189bf35d" />
-<img width="1440" alt="Screenshot 2025-01-12 at 4 35 52 AM" src="https://github.com/user-attachments/assets/e16b19ee-fa12-4cd5-8379-412d2a04d18b" />
 <img width="1440" src = "Readme Slides/vid.gif">
 <img width="1440" alt="Screenshot 2025-01-12 at 4 32 41 AM" src="https://github.com/user-attachments/assets/e30ff085-bcb7-4568-b72d-9477a91a7651" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 32 30 AM" src="https://github.com/user-attachments/assets/88773b7e-ce04-40dd-bae8-bedcb93cfeea" />
