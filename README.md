@@ -2,7 +2,7 @@
 • Cosmic Closet is a social e-commerce platform for buying and selling used, vintage, and repurposed items with features allowing users to create outfits from the items they are selling. 
 
 <img width="1440" alt="Screenshot 2025-01-12 at 4 19 36 AM" src="https://github.com/user-attachments/assets/1d72e284-2b14-464a-a067-f2be14a72563" /> 
-
+ 
 # 🥥 Screens
 <img width="1440" alt="Screenshot 2025-01-12 at 4 39 09 AM" src="https://github.com/user-attachments/assets/5459546d-b3a1-4626-938f-a274ce8fd11d" />
 <img width="1440" alt="Screenshot 2025-01-12 at 4 24 28 AM" src="https://github.com/user-attachments/assets/984b4483-6a5f-4096-a202-0a3f0cd4eadb" />
