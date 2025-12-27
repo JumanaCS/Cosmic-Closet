@@ -6,7 +6,7 @@
 
 </div>
 
-# 🩰 About Cosmic Closet
+# 🩰 About Cosmic Closet 
 
 Cosmic Closet is a **social e-commerce platform** for buying and selling used, vintage, and repurposed items. What makes it unique is the ability for users to create and share outfits from the items they're selling, blending fashion inspiration with sustainable shopping.
 
