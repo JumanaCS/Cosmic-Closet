@@ -32,7 +32,7 @@ Cosmic Closet addresses these challenges by providing:
 
 # 🥥 Screens & Features
 
-### Home & Discovery
+### Authentication
 <div>
 <img width="720" alt="Home Screen" src="https://github.com/user-attachments/assets/5459546d-b3a1-4626-938f-a274ce8fd11d" />
 </div>
