@@ -1,6 +1,6 @@
 <div align="center">
 
-
+<img width="2388" height="726" alt="Untitled_Artwork" src="https://github.com/user-attachments/assets/42face34-5974-44f9-b5d0-1bee60f5666c" />
 
 *Social Innovation Award Winner at StartUp UNO 2024*
 
