@@ -40,16 +40,17 @@ Cosmic Closet addresses these challenges by providing:
 ### Product Listings
 <div>
 <img width="720" alt="Product View" src="https://github.com/user-attachments/assets/984b4483-6a5f-4096-a202-0a3f0cd4eadb" />
-<img width="720" alt="Product Details" src="https://github.com/user-attachments/assets/aa2a61a5-7837-4ea3-b218-56a6bff9bbbb" />
 </div>
 
 ### Outfit Creation
 <div>
-<img width="720" src="Readme Slides/vid1.gif">
+<img width="720" alt="Product Details" src="https://github.com/user-attachments/assets/aa2a61a5-7837-4ea3-b218-56a6bff9bbbb" />
 </div>
 
-### User Profiles & Shopping
+
+### User Profiles
 <div>
+<img width="720" src="Readme Slides/vid1.gif">
 <img width="720" alt="Profile View" src="https://github.com/user-attachments/assets/7e989ffc-5233-4795-80c1-0f55eb5a3574" />
 <img width="720" alt="Shopping Features" src="https://github.com/user-attachments/assets/7cc63081-e8de-4c9c-8f97-9715415a3ed3" />
 </div>
