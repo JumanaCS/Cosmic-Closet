@@ -100,7 +100,7 @@ Cosmic Closet was submitted to the local UNO Startup competition. Our journey:
 
 **Made with 🤍 by the Cosmic Closet Team**
 
-*Cosmic Closet - Style Sustainably*
+*Cosmic Closet - one closet away from creating your own universe*
 
 </div>
 
