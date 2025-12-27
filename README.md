@@ -91,7 +91,7 @@ Cosmic Closet was submitted to the local UNO Startup competition. Our journey:
 ### Future Updates
 - [ ] In-app messaging between buyers/sellers
 - [ ] Payment processing integration
-- [ ] Mobile app (iOS & Android)
+- [ ] Web app 
 - [ ] Advanced search and filters
 - [ ] Wishlist and saved items
 - [ ] Social sharing features
